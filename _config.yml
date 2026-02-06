@@ -18,29 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Bangkah
+email: mdhyaulatha@gmail.com
+description: >-
+  Backend developer dengan fokus pada pengembangan API, sistem backend, dan solusi digital profesional. Berpengalaman membangun aplikasi modern, sistem absensi, dan portofolio dengan Laravel, React.js, MySQL, serta alat profesional seperti GitHub dan Linux.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aatha.vercel.app/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+# their entries' file path in the `include:` list.
+# url: "https://bangkah.dev" # removed duplicate, now using vercel url
 #
 # exclude:
 #   - .sass-cache/
