@@ -53,7 +53,6 @@ Politeknik Negeri Lhokseumawe (Aug 2024 – sekarang)
 	Credential ID: NVP7J8NOVXR0
 
 ## Prestasi & Aktivitas
-- 3rd Place, Information System Technology Competition 2025, Universitas Malikussaleh
 - Kontributor open source (1000+ contributions/year)
 - Security research, automation scripting, server troubleshooting
 - Aktif berbagi pengetahuan dan proyek di LinkedIn
